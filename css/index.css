@@ -1,0 +1,44 @@
+body {
+	background-image: linear-gradient(MediumTurquoise, MediumBlue);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+h1{
+		font-family: "cooper black", tahoma, sans-serif;
+		color: MidnightBlue;
+		font-size: 55px;
+		text-align: center;
+}
+
+h2{
+		font-family: "cooper black", tahoma, sans-serif;
+		font-size: 30px;
+		padding: 10px;
+}
+
+h3{
+	font-family: tahoma, sans-serif;
+	font-size: 20px;
+	color: MidnightBlue;
+	width: auto;
+}
+h3 span{
+	display: inline-block;
+	float: left;
+	width: 350px;
+	height: 300px;
+	line-height: 25px;
+	padding: 10px;
+}
+nav{
+	float: right;
+	position: relative;
+	bottom: 110px;
+	right: 100px;
+}
+table{
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
