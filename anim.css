@@ -1,0 +1,39 @@
+body {
+	background-image: linear-gradient(BlueViolet, indigo);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+h1{
+		font-family: "cooper black", tahoma, sans-serif;
+		color: Midnightblue;
+		font-size: 75px;
+		text-align: center;
+}
+
+h2{
+		font-family: "cooper black", tahoma, sans-serif;
+		font-size: 30px;
+		padding: 15px;
+}
+
+h3{
+	font-family: tahoma, sans-serif;
+	font-size: 25px;
+	color: Midnightblue;
+	width: auto;
+	padding: 10px;
+}
+h3 span{
+	display: inline-block;
+	float: left;
+	width: 400px;
+	height: 400px;
+	padding: 10px;
+}
+
+div{
+	position: relative;
+	bottom: 10px;
+}
+	
